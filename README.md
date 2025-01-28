@@ -7,7 +7,7 @@ Clone this repo
 Then do:
 
 ```console
-cd Plankton.Test
+cd ebs-plankton-python-demo
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
